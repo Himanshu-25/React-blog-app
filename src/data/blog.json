@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Ελλάδα - Αθήνα",
+            "blogTitle" : "Επεκτείνεται η Αττική οδός προς Ραφήνα, Βουλιαγμένης και Εθνική Οδό",
+            "slug": "",
+            "postedOn": "June 19, 2020",
+            "author": "Unknown",
+            "blogImage": "https://images.pexels.com/photos/681335/pexels-photo-681335.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "blogText": "Το υπουργείο Υποδομών και Μεταφορών ετοιμάζει τις επεκτάσεις της Αττικής Οδού που παρουσιάζουν μεγάλο επενδυτικό ενδιαφέρον μιας και εκτιμάται ότι θα έχουν την ίδια εμπορική επιτυχία που έχει και ο σημερινός κορμός του άξονα. Σύμφωνα πληροφορίες, έχουν ωριμάσει κάποιες από τις επεκτάσεις και συγκεκριμένα, πιο προχωρημένη θεωρείται η επέκταση της Λεωφόρου Κύμης στην Εθνική Οδό που έχει εγκεκριμένους περιβαλλοντικούς όρους, ενώ και η επέκταση προς Ραφήνα είναι σε διαδικασία ενεργοποίησης μελετών. Ακόμα πιο φιλόδοξο, είναι το σχέδιο για την επέκταση της Αττικής Οδού μέχρι τη Λεωφόρο Βουλιαγμένης μέσω της λεγόμενης “Αστικής Σήραγγας Ηλιούπολης” μήκους περίπου 3 χιλιομέτρων. Η σήραγγα αυτή θα ξεκινά από την Κατεχάκη (εκεί που σήμερα ξεκινά η Δυτική Περιφερειακή Υμηττού) και θα καταλήγει χωρίς εξόδους, στη Λεωφόρο Βουλιαγμένης, στο ύψος του Αγίου Δημητρίου, κοντά στον ομώνυμο σταθμό Μετρό."
+        },
+        {
+            "id": 2,
+            "blogCategory": "Καινοτιμία",
+            "blogTitle": "Tesla: Λιγότερα ρομπότ στο εργοστάσιό της στη Γερμανία λόγω των τεράστιων μηχανών χύτευσης αλουμινίου",
+            "slug": "",
+            "postedOn": "Feb 21, 2018",
+            "author": "Unknown",
+            "blogImage": "https://images.pexels.com/photos/258083/pexels-photo-258083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+            "blogText": "Η Tesla έκρινε πως τα ρομπότ δεν είναι αρκετά αποτελεσματικά στο νέο Gigafactory εργοστάσιο της στη Γερμανία και έτσι σχεδιάζει να αντικαταστήσει εκατοντάδες ρομπότ με μηχανές χύτευσης αλουμινίου (Gigapress) για την κατασκευή ενιαίων εξαρτημάτων που χρησιμοποιούνται στη κατασκευή του πλαισίου των αυτοκινήτων της...."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Ευρώπη",
+            "blogTitle": "To Suzuki Jimny μόνο ως επαγγελματικό στην Ευρώπη",
+            "slug": "",
+            "postedOn": "Feb 21, 2018",
+            "author": "Unknown",
+            "blogImage": "https://i0.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/Suzuki-Jimny-Light-Commercial-Vehicle-1.jpg?resize=696%2C492&ssl=1",
+            "blogText": "Στις αρχές του χρόνου η Suzuki έκανε γνωστό πως το Jimny σταματά να πωλείται στην Ευρώπη ως επιβατικό, λόγω των νέων κανονισμών εκπομπών CO2 που θα τεθούν σε εφαρμογή το 2021. Τότε η εταιρία είχε ανακοινώσει πως το Jimny θα προσφέρεται μόνο ως επαγγελματικό στις ευρωπαϊκές αγορές και σήμερα Suzuki μας δείχνει τη συγκεκριμένη έκδοση. Σε σχέση με την επιβατική έκδοση, η επαγγελματική έκδοση του Jimny δεν έχει πίσω καθίσματα, έχοντας έτσι έναν μεγάλο χώρο φόρτωσης 863 λίτρων με διαχωριστικό προστατευτικό πλέγμα πίσω από τις πλάτες των καθισμάτων του οδηγού και του συνοδηγού."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Ελλάδα - Αθήνα",
+            "blogTitle": "Δοκιμαστικό δρομολόγιο για το πρώτο ηλεκτρικό λεωφορείο στην Αθήνα",
+            "slug": "",
+            "postedOn": "Feb 21, 2018",
+            "author": "Albi",
+            "blogImage": "https://i1.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/byd-ebus_0000.jpg?resize=696%2C435&ssl=1",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+        ,{
+            "id": 5,
+            "blogCategory": "Αυτοκίνητο",
+            "blogTitle": "Οι τιμές του ανανεωμένου Suzuki Swift στην Ελλάδα",
+            "slug": "",
+            "postedOn": "Feb 21, 2018",
+            "author": "Albi",
+            "blogImage": "https://i1.wp.com/www.autoblog.gr/wp-content/uploads/2020/09/2021-suzuki-swift-facelift-europe-4.jpg?resize=696%2C461&ssl=1",
+            "blogText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        }
+    ]
+}
